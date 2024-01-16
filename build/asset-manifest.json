@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4874d33f.css",
+    "main.js": "/static/js/main.236dc146.js",
+    "static/media/bruno-van-der-kraan-vII8yFT6d9A-unsplash.jpg": "/static/media/bruno-van-der-kraan-vII8yFT6d9A-unsplash.ed4f3891d5fa78330b95.jpg",
+    "static/media/image1.jpg": "/static/media/image1.5cf813ddcffb9a679cf1.jpg",
+    "static/media/smth.jpg": "/static/media/smth.f38a5628d15feed4a2e6.jpg",
+    "static/media/smth2.jpg": "/static/media/smth2.a475aa2c46f9faf65663.jpg",
+    "static/media/mem4.jpg": "/static/media/mem4.be540d87184661ed7ee7.jpg",
+    "static/media/mem5.jpg": "/static/media/mem5.1cc4e0695b77326ca038.jpg",
+    "static/media/mem1.jpg": "/static/media/mem1.0bdeca00d6cf241d49b3.jpg",
+    "static/media/teampic2.jpg": "/static/media/teampic2.f2ce80256e39e1786c87.jpg",
+    "static/media/mem2.jpg": "/static/media/mem2.707e2123d50aed961677.jpg",
+    "static/media/teampic6.jpg": "/static/media/teampic6.6d507b2a5e18e0ac0eed.jpg",
+    "static/media/teampic3.jpg": "/static/media/teampic3.dfa2861249a4ed14dd26.jpg",
+    "static/media/teampic5.jpg": "/static/media/teampic5.1a577cf1873830fc01ea.jpg",
+    "static/media/teampic4.jpg": "/static/media/teampic4.0b93bf525cad476c292b.jpg",
+    "static/media/teampic1.jpg": "/static/media/teampic1.4b0f3967707efe3ae345.jpg",
+    "static/media/mem3.jpg": "/static/media/mem3.5f7a6cd07e616cfef7e2.jpg",
+    "static/media/Aquire-BW0ox.otf": "/static/media/Aquire-BW0ox.a37a828dd20a35dc68d2.otf",
+    "index.html": "/index.html",
+    "main.4874d33f.css.map": "/static/css/main.4874d33f.css.map",
+    "main.236dc146.js.map": "/static/js/main.236dc146.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4874d33f.css",
+    "static/js/main.236dc146.js"
+  ]
+}
